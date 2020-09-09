@@ -1,0 +1,6 @@
+C:\Users\nepro\source\repos\RSA_Pracrice\bin\Debug\RSA_Pracrice.exe.config
+C:\Users\nepro\source\repos\RSA_Pracrice\bin\Debug\RSA_Pracrice.exe
+C:\Users\nepro\source\repos\RSA_Pracrice\bin\Debug\RSA_Pracrice.pdb
+C:\Users\nepro\source\repos\RSA_Pracrice\obj\Debug\RSA_Pracrice.csprojAssemblyReference.cache
+C:\Users\nepro\source\repos\RSA_Pracrice\obj\Debug\RSA_Pracrice.exe
+C:\Users\nepro\source\repos\RSA_Pracrice\obj\Debug\RSA_Pracrice.pdb
